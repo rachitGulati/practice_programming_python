@@ -25,9 +25,9 @@ def fibonacci(num):
 		fibonacci_dic.insert(num, result)
 		return result
 def looping():
-	count = input('Enter element position sequence in fibonacci series: ')
+	count = input('Enter element position in fibonacci series: ')
 	print fibonacci(count)
-	response = raw_input('Do want to continue Y/N: ')
+	response = raw_input('Do you want to continue (Y/N)?: ')
 	if response == 'Y':
 		looping()
 	else:
