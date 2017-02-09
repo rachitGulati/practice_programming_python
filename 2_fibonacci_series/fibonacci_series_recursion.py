@@ -1,5 +1,5 @@
 '''
-Title: Fibonaci series with recursion
+Title: Fibonacci series with recursion
 Started On: 9th Feb,2017
 Extra Knowledge: 
 What are the practical example of the fibonacci series ?.

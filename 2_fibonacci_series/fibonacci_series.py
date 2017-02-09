@@ -1,5 +1,5 @@
 '''
-Title: Fibonaci Series
+Title: Fibonacci Series
 Started On: 8th Feb,2017
 Extra Knowledge: 
 What are the practical example of the fibonacci series ?.
